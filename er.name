@@ -1,0 +1,30 @@
+[33mcommit 240070d75d1d692d5e2bcc2d8efb241a1df646f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 1f4386a 4750b3c
+Author: Safwan3528 <tokrimauhitam@gmail.com>
+Date:   Mon Oct 14 03:30:03 2024 +0800
+
+    env file
+
+[33mcommit 4750b3c8cd264275c8620fef8f9dfe3ac04c39e2[m
+Author: Safwan Rahimi <tokrimauhitam@gmail.com>
+Date:   Mon Oct 14 15:44:42 2024 +0800
+
+    Add files via upload
+
+[33mcommit 1f4386ae84bf31c16d3f087859fe48a5295373fb[m
+Author: Safwan3528 <tokrimauhitam@gmail.com>
+Date:   Mon Oct 14 03:24:26 2024 +0800
+
+    fix bugs
+
+[33mcommit 54c5fc90c89c81e930e2b9f6e54944f6f5ef9861[m
+Author: Safwan3528 <tokrimauhitam@gmail.com>
+Date:   Sun Oct 13 20:01:18 2024 +0800
+
+    fix chatbox and all other thing
+
+[33mcommit 14da2471e6614a65078062b9b1007c4a7783d1c1[m
+Author: Safwan3528 <tokrimauhitam@gmail.com>
+Date:   Sun Oct 13 18:02:32 2024 +0800
+
+    add api for search ingredient
