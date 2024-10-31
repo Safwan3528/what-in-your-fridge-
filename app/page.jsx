@@ -143,7 +143,7 @@ export default function Home() {
         )}
       </main>
       <div className="mb-16"></div>{" "}
-      {/* Tambahkan margin di bawah untuk menaikkan footer */}
+      {/* kalau nak naikan footer, boleh tambah margin */}
       <ChatBox />
       {selectedRecipe && (
         <RecipeModal
